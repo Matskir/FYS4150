@@ -13,7 +13,7 @@ int main(){
   double h = 0;
   while (i <= 100){
     h += i;
-    i++
+    i++;
   }
 
   std::cout << s;
