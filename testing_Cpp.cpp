@@ -5,6 +5,7 @@ double f(double x); //Declaration
 int main(int argc, char const*argv[]){
   double x = 2;
   double res = f(x); //Should return 2*2 = 4
+  std::cout << res;
   return 0;
 }
 
