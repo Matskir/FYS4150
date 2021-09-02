@@ -19,7 +19,6 @@ int main(){
   std::vector<double> x;
   x.push_back(2.0);
   
-  std::cout << x;
   //Example 4: Creating a matrix using push_back
 
 }
