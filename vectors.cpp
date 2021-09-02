@@ -16,7 +16,7 @@ int main(){
   }
 
   //Example 3: Adding elements of type double using push_back
-  std::vector x;
+  std::vector<double> x;
   x.push_back(2.0);
   
   //Example 4: Creating a matrix using push_back
